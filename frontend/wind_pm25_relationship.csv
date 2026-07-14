@@ -1,0 +1,17 @@
+station,city,n_days,correlation_r,pm25_avg,pct_pm25_change_per_1ms_wind
+kasturi nagar,bengaluru,734,-0.34,34.7,-49.6
+vinoba nagara,shivamogga,873,-0.27,20.6,-18.0
+deshpande nagar,hubballi,570,-0.21,34.1,-47.9
+lingaraj nagar,hubballi,802,-0.15,24.4,-1.9
+btm layout,bengaluru,765,-0.13,23.8,-13.4
+rvce-mailasandra,bengaluru,786,-0.1,47.0,-5.4
+silk board,bengaluru,865,-0.09,35.2,-29.0
+shivapura peenya,bengaluru,781,-0.01,29.4,-0.8
+thimmalapura,tumakuru,661,0.01,36.3,0.3
+bwssb kadabesanahalli,bengaluru,80,0.03,36.6,1.0
+hebbal,bengaluru,832,0.03,30.0,8.8
+jigani,bengaluru,687,0.05,32.4,1.7
+kadri,mangalore,643,0.08,31.2,102.3
+hebbal 1st stage,mysuru,871,0.32,20.0,52.5
+ramteerth nagar,belgaum,738,0.33,23.9,78.8
+lal bahadur shastri nagar,kalaburagi,436,0.54,30.6,29.8
