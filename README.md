@@ -2,7 +2,7 @@
 
 A data pipeline and interactive dashboard analyzing 2023–2025 air quality data from 22 CPCB/KSPCB monitoring stations across Karnataka, checking daily readings against India's National Ambient Air Quality Standards (NAAQS) and examining how weather drives pollution.
 
-**[Live dashboard →](#) https://dishacodes15.github.io/NAAQS-karnataka-compliance-analysis/**
+**Live Dashboard -> https://dishacodes15.github.io/NAAQS-karnataka-compliance-analysis/**
 ## What this is
 
 Karnataka's pollution control boards publish daily station-level air quality readings, but there's no ready-made view of *which districts breach national safety limits, how often, and why*. This project builds that view from scratch: pulling raw government data, checking it against legal thresholds, and layering in the meteorology that explains the seasonal swings.
